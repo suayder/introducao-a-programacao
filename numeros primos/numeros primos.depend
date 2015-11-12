@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447333512 source:/tmp/guest-xh6Cfs/Área de Trabalho/numeros primos/main.c
+	<stdio.h>
+	<stdlib.h>
+
