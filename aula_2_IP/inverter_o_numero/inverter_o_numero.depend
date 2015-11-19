@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447942984 source:/home/aluno/Área de Trabalho/inverter_o_numero/main.c
+	<stdio.h>
+	<stdlib.h>
+

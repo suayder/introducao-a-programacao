@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447935385 source:/home/aluno/Área de Trabalho/soma_de_algarismos/main.c
+	<stdio.h>
+	<stdlib.h>
+

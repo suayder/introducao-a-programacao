@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447934480 source:/home/aluno/Área de Trabalho/LOSANGO/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
