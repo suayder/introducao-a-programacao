@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448541072 source:/home/aluno/Área de Trabalho/introducao-a-programacao/questao1_trabalho/main.c
+	<stdio.h>
+	<stdlib.h>
+
