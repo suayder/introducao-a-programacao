@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449501524 source:/home/suayder/Documentos/arquivos_git/introducao-a-programacao/Trabalho/Q5_trabalho/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

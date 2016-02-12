@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453749578 source:/home/suayder/Desktop/celcius/main.c
+	<stdio.h>
+	<stdlib.h>
+

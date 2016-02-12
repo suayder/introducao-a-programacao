@@ -4,9 +4,9 @@
 int main()
 {
     int n, j=0, l, c, tc=0;
-    printf("digite o numero de bandeja: ");
+    printf("digite o numero de bandejas: ");
     scanf("%d", &n);
-    for (;n>0;n--){
+    for (n;n>0;n--){
         j++;
         printf("o numero de latas e o numero de copos da bandeja %d:\n", j);
         scanf("%d %d", &l, &c);

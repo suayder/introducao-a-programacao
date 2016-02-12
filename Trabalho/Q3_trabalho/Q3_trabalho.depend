@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449516633 source:/home/suayder/Documentos/arquivos_git/introducao-a-programacao/Trabalho/Q3_trabalho/main.c
+	<stdio.h>
+	<stdlib.h>
+
